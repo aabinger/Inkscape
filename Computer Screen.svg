@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Computer Screen.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46751102"
+     inkscape:cx="556.77077"
+     inkscape:cy="563.85375"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#b7bec8"
+       id="path3367"
+       cx="372.07309"
+       cy="383.15121"
+       rx="370.56061"
+       ry="381.97104" />
+    <rect
+       y="737.22192"
+       x="-899.87939"
+       height="278.29855"
+       width="444.67273"
+       id="rect3384"
+       style="fill:#f2f2f2" />
+    <rect
+       style="fill:#000000"
+       id="rect4189"
+       width="79.142517"
+       height="72.725586"
+       x="325.12604"
+       y="573.22913" />
+    <rect
+       style="fill:#000000"
+       id="rect4193"
+       width="192.50883"
+       height="27.806831"
+       x="271.65137"
+       y="648.09363" />
+    <rect
+       y="238.68591"
+       x="104.666"
+       height="361.39661"
+       width="531.78925"
+       id="rect4202"
+       style="fill:#000000" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#aca793"
+       id="rect3371"
+       width="480.45352"
+       height="322.89484"
+       x="130.33385"
+       y="257.9368" />
+    <path
+       style="fill:#f2f2f2"
+       d="M 130.33398 257.9375 L 130.33398 378.04688 A 426.72794 253.46997 0 0 1 351.14062 257.9375 L 130.33398 257.9375 z "
+       id="rect4214" />
+  </g>
+</svg>
